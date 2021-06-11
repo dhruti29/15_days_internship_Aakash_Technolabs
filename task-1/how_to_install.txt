@@ -1,0 +1,36 @@
+Introduction
+
+Python is a widely used high-level programming language first launched in 1991. Since then, Python has been gaining popularity and is considered as one of the most popular and flexible server-side programming languages.
+
+Unlike most Linux distributions, Windows does not come with the Python programming language by default. However, you can install Python on your Windows server or local machine in just a few easy steps.
+
+Prerequisites
+
+
+--A system running Windows 10 with admin privileges
+--Command Prompt (comes with Windows by default)
+--A Remote Desktop Connection app (use if you are installing Python on a remote Windows server)
+
+
+Python 3 Installation on Windows
+
+
+  Step 1: Select Version of Python to Install
+  Step 2: Download Python Executable Installer
+  Step 3: Run Executable Installer
+  Step 4: Verify Python Was Installed On Windows 
+	Navigate to the directory in which Python was installed on the system. In our case, it is C:\Users\Username\AppData\Local\Programs\Python\Python37 since we have installed the latest version.
+	Double-click python.exe.
+  Step 5: Verify Pip Was Installed
+  Step 6: Add Python Path to Environment Variables (Optional)
+
+
+
+Conclusion
+
+--In this tutorial, we detailed how to install Python 3.7.3 on Windows. If you are installing a different version of Python, you can expect a similar process.
+
+--Remember, choose your version carefully, make sure that you have Pip installed, and use virtual environments when developing multiple projects on a single system.
+
+
+NOW, FOR INSTALLING PYCHARM FOLLOW THIS LINK : https://www.guru99.com/how-to-install-python.html
