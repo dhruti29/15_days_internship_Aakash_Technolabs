@@ -1,7 +1,9 @@
-# 15_days_internship_Akhash_Technolabs
+# 15_days_internship_Aakash_Technolabs
 
-DOMIAN : Python Django Internship
+##DOMIAN : Python Django Internship
 
-Day-1 : how to setup python and Pycharm in local machine for doing code.💻
+###Day-1 
+how to setup python and Pycharm in local machine for doing code.💻
 
-Day-2 : basic program, data types in python.
+###Day-2 
+basic program, data types in python.
