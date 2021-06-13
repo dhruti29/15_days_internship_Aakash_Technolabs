@@ -10,3 +10,6 @@ basic program, data types in python.
 
 ### Day-3
 Python Conditional Statement,Loop,Break,Continue,Range,Pass
+
+### Day-6
+installation of Django and history of Django
