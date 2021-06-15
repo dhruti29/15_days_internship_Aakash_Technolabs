@@ -22,3 +22,12 @@ installation of Django and history of Django
 
 ### Day-7
 Django Hello World project
+
+### Day-8
+Django Theme
+
+### Day-9
+Django GetPost
+
+### Day-10
+Python DB CRUD
