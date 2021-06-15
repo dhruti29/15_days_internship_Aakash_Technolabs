@@ -19,3 +19,6 @@ Class and Object
 
 ### Day-6
 installation of Django and history of Django
+
+### Day-7
+Django Hello World project
